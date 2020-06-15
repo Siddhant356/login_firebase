@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1098286595948",
+    "firebase_url": "https://register-login-4b33b.firebaseio.com",
+    "project_id": "register-login-4b33b",
+    "storage_bucket": "register-login-4b33b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098286595948:android:858e6c86d2e3940a993d49",
+        "android_client_info": {
+          "package_name": "com.twikdesk.registerloginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098286595948-mcf4cjqlafr4nqsonnesgb38mcsviase.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Lcn5BPAqLx5WYSf4G0S461cOaS6sZt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098286595948-mcf4cjqlafr4nqsonnesgb38mcsviase.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
