@@ -16,6 +16,7 @@ class Home extends StatelessWidget {
             RaisedButton(
               onPressed: () async {
                 await _auth.signOut();
+                await _auth.signOutGoogle();
               },
               color: Colors.blueAccent,
               shape: RoundedRectangleBorder(

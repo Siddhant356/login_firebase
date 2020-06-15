@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1098286595948-81lmbq97resm9revfcmpomm5focs8sm3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twikdesk.registerloginpage",
+            "certificate_hash": "735d46d127452779e41510368d7392cd0a8709c5"
+          }
+        },
+        {
           "client_id": "1098286595948-mcf4cjqlafr4nqsonnesgb38mcsviase.apps.googleusercontent.com",
           "client_type": 3
         }
